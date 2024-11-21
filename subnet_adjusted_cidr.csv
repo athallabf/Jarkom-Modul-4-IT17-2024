@@ -1,0 +1,24 @@
+Nama Subnet,Rute,Jumlah IP,Netmask
+A1,Kronii_Mumei - Bae_Fauna - Holo-Council,62,/26
+A2,Holo-Council - Router4 - Router0,3,/29
+A3,Router0 - Gura_Ayne_Ina - Kiara_Calli,503,/23
+A4,Router0 - Holo-EN,2,/30
+A5,Holo-EN - Hololive,2,/30
+A6,Holo-EN - HoloAdvent,2,/30
+A7,HoloAdvent - Shiori_Nerissa - Biboo - Fuwamoco,28,/27
+A8,Hololive - Holo-ID,2,/30
+A9,Holo-ID - Holoro,2,/30
+A10,Holo-ID - AREA15,2,/30
+A11,AREA15 - Risu - Lofi - Moona,661,/22
+A12,Holoro - Reine - Anya - Ollie,34,/26
+A13,Holo-ID - Holoh3ro,2,/30
+A14,Holoh3ro - Kobo - Zeta - Kaela,299,/23
+A15,Hololive - Holo-JP,2,/30
+A16,Holo-JP - DEV_IS - Gen:0,3,/29
+A17,Gen:0 - MiComet - Sora_Robo_Azki - Gen:1,2045,/21
+A18,Gen:1 - FBK_Matsuri - Aki_Hachama,470,/23
+A19,Gen:1 - Gamers,2,/30
+A20,Gamers - Mio - Okayu - Korone,120,/25
+A21,DEV_IS - Hajime Kanade - Ao - Ririka_Raden,14,/28
+A22,Tys - Router4,3,/29
+TOTAL,,4245,/19
