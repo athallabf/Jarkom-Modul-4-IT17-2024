@@ -8,24 +8,24 @@
 | Jody Hezekiah Tanasa Sagala | 5027221050 |
 
 # RUTE
-![alt text](image.png)
+![alt text](images/image.png)
 
 # CPT / VLSM
 
 ### Topologi
-![alt text](topo-cpt-modul4.png)
+![alt text](images/topo-cpt-modul4.png)
 
 ### PEMBAGIAN IP - VLSM
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 # GNS3 / CIDR
 
 ### Topologi
-![alt text](topologi-modul-4.png)
+![alt text](images/topologi-modul-4.png)
 
 ### Penggabungan IP - CIDR
-![alt text](image-1.png)
-![alt text](image-3.png)
+![alt text](images/image-1.png)
+![alt text](images/image-3.png)
 
 ### Pembagian IP - CIDR
-![alt text](image-5.png)
+![alt text](images/image-5.png)
